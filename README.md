@@ -1,6 +1,6 @@
 Hello, I'm Lilah Johnson
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lilah-johnson/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lilah-johnson/)
 
 I have a profound interest in technology and a dedication to solving complex problems.
 
